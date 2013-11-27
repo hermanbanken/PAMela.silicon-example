@@ -1,0 +1,12 @@
+{
+	"name": "silicon-example",
+	"preferGlobal": true,
+	"version": "0.0.4",
+	"author": "Herman Banken <herman@q42.nl>",
+	"description": "Bare silicon for PAMela",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Q42/PAMela.silicon-example.git"
+	},
+  "license": "MIT"
+}

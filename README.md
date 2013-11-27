@@ -1,0 +1,2 @@
+# Example silicon for PAMela
+This silicon is an example of a silicon for the sexy Presence Awareness Machine PAMela. It shows of PAMela's capabilities to trigger events on silicons. Please clone this repository and create your own silicons.
